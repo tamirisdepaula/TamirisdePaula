@@ -16,7 +16,7 @@
 <div align="center">
 <h2 align="left">About me</h2>
 
-<p align="left"> Olá, meu nome é Tamiris Cavalcante, estou graduando em Tecnologia da Informação na Estácio de Sá e tambem sou Desenvolvimento de Sistemas formada pelo  Dev Club, o que me permitiu aliar conhecimento teórico e prático para aprimorar minhas habilidades como desenvolvedora. Tenho uma grande paixão por programação e seu poder criativo, e estou sempre buscando desenvolvimento pessoal e profissional. Onde futuramete estarei implementando o conhecimento com o Back-End.
+<p align="left"> Olá, meu nome é Tamiris Cavalcante, estou graduando em Tecnologia da Informação na Estácio de Sá e tambem sou Desenvolvedora de Sistemas formada pelo  Dev Club, o qual me permitiu aliar conhecimento teórico e prático para aprimorar minhas habilidades como desenvolvedora. Tenho uma grande paixão por programação e seu poder criativo, e estou sempre buscando desenvolvimento pessoal e profissional. Onde futuramete estarei implementando o conhecimento com o Back-End.
 
 
 <h2 align="left">Social Media</h2>
